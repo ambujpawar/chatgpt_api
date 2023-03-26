@@ -20,5 +20,5 @@ poetry install
 
 ## DEMO
 A simple demo of the summarizer can be found here:
-https://user-images.githubusercontent.com/19887541/227786173-e6798ba6-ec14-46ac-b776-2009c3377cd9.mov
 
+![summarizer](https://user-images.githubusercontent.com/19887541/227787486-a78916a5-db35-4238-a677-8687c010e1bd.gif)
