@@ -21,7 +21,7 @@ poetry install
 ## DEMO
 A simple demo of the summarizer can be found here:
 
-![summarizer](https://user-images.githubusercontent.com/19887541/227787623-0ffcf3ca-1ac9-4d99-9231-1a2b92b3986d.mov)
+![summarizer](https://github.com/ambujpawar/chatgpt_api/blob/master/media/github_summarizer.mov)
 
 
 
