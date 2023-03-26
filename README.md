@@ -1,5 +1,5 @@
-# chatgpt_api
-Code to interact with ChatGPT API
+# Summarize your articles using CHATGPT
+Code to interact with ChatGPT API. The aim was to gain first hand experience working with the new chat completion API provided by API and also learning Gradio.
 
 
 ## Prerequisites
