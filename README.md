@@ -13,10 +13,18 @@ API_KEY=YOUR_KEY_HERE
 ## Installation
 The installation is managed by poetry. You can simply install them by:
 
-```python
+```bash
+pip install poetry
+poetry env use python3.10
+poetry shell
 poetry install
 ```
 
+## RUN
+The application can be run using the following command:
+```python
+python summarize.py
+```
 
 ## DEMO
 A simple demo of the summarizer can be found here:
